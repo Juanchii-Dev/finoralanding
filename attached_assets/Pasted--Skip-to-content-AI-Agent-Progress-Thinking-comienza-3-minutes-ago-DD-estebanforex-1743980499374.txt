@@ -1,0 +1,94 @@
+
+Skip to content
+
+AI
+Agent
+Progress
+Thinking...
+comienza
+
+3 minutes ago
+DD
+
+estebanforex10
+Agent is paused
+
+Message Agent…
+The agent was paused.
+- Replit
+Pasted--Objetivo-Crear-una-landing-page-100-funcional-para-Finora-un-asistente-financiero-inteligent-1743980282928.txt
+🎯 Objetivo: Crear una landing page 100% funcional para “Finora”, un asistente financiero inteligente.
+
+⚙️ Tecnología: Usa Next.js + Tailwind CSS.
+(Si el entorno no soporta Next.js, usar React + Vite + Tailwind CSS).
+
+🧠 Instrucciones detalladas:
+
+Crea una landing page elegante, profesional y moderna.
+
+El diseño debe tener estilo oscuro, elegante, minimalista y con colores que transmitan confianza (azul oscuro, blanco y detalles dorados o verdes).
+
+Debe incluir:
+
+✅ Un hero principal con:
+
+Logo de Finora (coloca uno genérico o usa texto estilizado por ahora)
+
+Título impactante: “Tu asesor financiero inteligente 24/7”
+
+Subtítulo: “Controla tus finanzas, salí de deudas y alcanzá tus metas con ayuda de IA.”
+
+Botón destacado: “Probar Asistente”
+
+Botón secundario: “Descargar App”
+
+✅ Sección de beneficios o funcionalidades con íconos:
+
+Diagnóstico financiero automático
+
+Simulador de metas de ahorro
+
+Consejos personalizados por IA
+
+Plan de pago de deudas inteligente
+
+✅ Sección “¿Por qué Finora?” con comparación frente a otros métodos.
+
+✅ Integración visual de una demo funcional limitada del asistente IA (puede ser un cuadro de chat con respuestas simuladas por ahora, no necesita backend real).
+
+✅ Sección “Descargá la app” con botón de descarga y mockup de un teléfono.
+
+✅ Footer profesional con enlaces a: Términos, Contacto, Redes, etc.
+
+El asistente de la demo debe responder algunas preguntas básicas simuladas como:
+
+“¿Cómo puedo ahorrar más?”
+
+“¿Estoy gastando mucho?”
+
+“¿Cuánto necesito para alcanzar mi objetivo?” Las respuestas pueden ser estáticas o simuladas con JS.
+
+Toda la estructura debe estar en archivos separados organizados por carpetas:
+
+bash
+Copiar
+Editar
+/components → Hero.jsx, Features.jsx, ChatDemo.jsx, Footer.jsx
+/pages → index.jsx
+/styles → globals.css
+/public → logo y mockups
+Asegúrate de que:
+
+Sea responsive (mobile first)
+
+Cargue rápido
+
+El código sea limpio y modular
+
+✨ Opcional (bonus si puedes hacerlo):
+
+Animaciones suaves en las secciones
+
+Scroll reveal
+
+Cursor interactivo o efecto elegante
